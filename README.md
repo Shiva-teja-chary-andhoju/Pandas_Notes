@@ -1,7 +1,8 @@
 # Pandas Notes
 
 A collection of Pandas concepts, code snippets, and outputs.
--👉 [Open in NBViewer](https://nbviewer.org/github/Shoju/Pandas_Notes/blob/main/pandas.ipynb)
+-👉 [View in NBViewer](https://nbviewer.org/github/Shiva-teja-chary-andhoju/Pandas_Notes/blob/main/pandas.ipynb)
+
 ## Table of Contents — Topics & Functions
 
 1. **Setup**
