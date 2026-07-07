@@ -1,7 +1,9 @@
 # Pandas Notes
 
-A collection of Pandas concepts, code snippets, and outputs.
+Pandas Essentials: Quick Reference.
 -👉 [View in NBViewer](https://nbviewer.org/github/Shiva-teja-chary-andhoju/Pandas_Notes/blob/main/pandas.ipynb)
+
+- [Pandas Official Documentation & User Guide](https://pandas.pydata.org/docs/index.html)
 
 ## Table of Contents — Topics & Functions
 
